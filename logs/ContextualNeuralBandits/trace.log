@@ -1,0 +1,6 @@
+{"phase":"start","data":{"pid":29765},"id":"29765","operation":"brazil-build","time":1606806664770.1265,"program":"brazil-build"}
+{"phase":"start","data":{"package":"BrazilPython-3.0"},"id":"BrazilPython-3.0","operation":"bootstrap-buildtool","time":1606806664770.7153,"program":"brazil-build"}
+{"phase":"finish","data":{},"id":"BrazilPython-3.0","operation":"bootstrap-buildtool","time":1606806766627.0437,"program":"brazil-build"}
+{"phase":"start","data":{"command":"brazilpython"},"id":"brazilpython","operation":"exec-buildsystem","time":1606806766627.3628,"program":"brazil-build"}
+{"phase":"finish","data":{},"id":"brazilpython","operation":"exec-buildsystem","time":1606806784578.6602,"program":"brazil-build"}
+{"phase":"finish","data":{"pid":29765,"exit_code":0},"id":"29765","operation":"brazil-build","time":1606806784578.8252,"program":"brazil-build"}

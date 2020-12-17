@@ -1,0 +1,5 @@
+base = {
+  workspace = nathvaru_ContextualNeuralbandit; 
+  versionSet = live;
+};
+packages = { ContextualNeuralBandits-1.0 = .; };

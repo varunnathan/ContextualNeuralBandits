@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+src/bandits/__init__.py
+src/bandits/multitaskbandit.py
+src/base/__init__.py
+src/base/base_neural_bandit.py
+src/base/customlayers.py
+src/utils/__init__.py
+src/utils/banditdataset.py
+src/utils/training.py
+test/test_contextual_neural_bandits.py
